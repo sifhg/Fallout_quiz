@@ -1,4 +1,4 @@
-# Fallout Quiz Game README
+# Fallout Quiz
 _A Fallout-based quiz game_
 
 This is a JS-based browser game that my long-distance girlfriend and I can play together when we are apart. 
